@@ -4,7 +4,7 @@ lkwks의 GitHub 계정입니다.
 
 
 <details>
-  <summary>최근 블로그 포스트:</summary>
+  <summary>최근 블로그 포스트</summary>
   <div markdown="1">
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
