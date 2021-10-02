@@ -25,3 +25,6 @@ lkwks의 GitHub 계정입니다.
     이런 에러가 뜨면서 제대로 작동하지 않는 중..
   </div>
 </details>
+
+  
+(Most Used Language) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lkwks)  
