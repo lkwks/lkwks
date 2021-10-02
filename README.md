@@ -27,4 +27,4 @@ lkwks의 GitHub 계정입니다.
 </details>
 
   
-(Most Used Language) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lkwks)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lkwks)  
