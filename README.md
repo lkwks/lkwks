@@ -9,9 +9,10 @@ lkwks의 GitHub 계정입니다.
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-    <https://github.com/gautamkrishnar/blog-post-workflow>의 Blog Post Workflow를 프로필 메인에 설치해보았으나,
+    https://github.com/gautamkrishnar/blog-post-workflow 의 Blog Post Workflow를 프로필 메인에 설치해보았으나,
       
-      ```
+      
+```
       Run gautamkrishnar/blog-post-workflow@master
 (node:1559) UnhandledPromiseRejectionWarning: TypeError: item.title.trim is not a function
     at /home/runner/work/_actions/gautamkrishnar/blog-post-workflow/master/dist/blog-post-workflow.js:134:3513
