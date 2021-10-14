@@ -6,10 +6,10 @@ lkwks의 GitHub 계정입니다.
 #### 최근 블로그 포스트
 <!-- BLOG-POST-LIST:START -->
 - [파이썬 백준 팁](https://lkwks.github.io/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EB%AC%B8%EC%A0%9C%ED%92%80%EC%9D%B4/2021/10/14/%ED%8C%8C%EC%9D%B4%EC%8D%AC-%EB%B0%B1%EC%A4%80-%ED%8C%81.html)
+- [백준 OJ > 14906번: 스러피](https://lkwks.github.io/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EB%AC%B8%EC%A0%9C%ED%92%80%EC%9D%B4/2021/10/14/%EB%B0%B1%EC%A4%80-%EC%8A%A4%EB%9F%AC%ED%94%BC.html)
 - [파이썬의 큐](https://lkwks.github.io/python/2021/10/13/%ED%8C%8C%EC%9D%B4%EC%8D%AC%EC%9D%98-%ED%81%90.html)
 - [Map() 함수](https://lkwks.github.io/python/2021/10/13/map()-%ED%95%A8%EC%88%98.html)
 - [프로그래머스 > 2018 KAKAO BLIND RECRUITMENT > [1차] 비밀지도](https://lkwks.github.io/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EB%AC%B8%EC%A0%9C%ED%92%80%EC%9D%B4/2021/10/12/%EB%B9%84%EB%B0%80%EC%A7%80%EB%8F%84.html)
-- [파이썬의 우선순위 큐](https://lkwks.github.io/python/2021/10/12/%ED%8C%8C%EC%9D%B4%EC%8D%AC%EC%9D%98-%EC%9A%B0%EC%84%A0%EC%88%9C%EC%9C%84-%ED%81%90.html)
 <!-- BLOG-POST-LIST:END -->
   
 <!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lkwks)-->
