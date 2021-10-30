@@ -5,7 +5,7 @@ lkwks의 GitHub 계정입니다.
 
 #### 최근 블로그 포스트
 <!-- BLOG-POST-LIST:START -->
-- [Process sync 고전 3문제](https://lkwks.github.io/os/2021/10/30/process-sync-%EA%B3%A0%EC%A0%84-3%EB%AC%B8%EC%A0%9C.html)
+- [Process sync 고전 3문제와 monitor](https://lkwks.github.io/os/2021/10/30/process-sync-%EA%B3%A0%EC%A0%84-3%EB%AC%B8%EC%A0%9C%EC%99%80-monitor.html)
 - [Process synchronization](https://lkwks.github.io/os/2021/10/29/process-synchronization.html)
 - [프로세스](https://lkwks.github.io/os/2021/10/28/%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4.html)
 - [Cpu 스케줄링](https://lkwks.github.io/os/2021/10/28/CPU-%EC%8A%A4%EC%BC%80%EC%A4%84%EB%A7%81.html)
