@@ -5,7 +5,7 @@ lkwks의 GitHub 계정입니다.
 
 #### 최근 블로그 포스트
 <!-- BLOG-POST-LIST:START -->
-- [File](https://lkwks.github.io/os/2021/11/04/file.html)
+- [File system](https://lkwks.github.io/os/2021/11/04/file-system.html)
 - [가상 메모리](https://lkwks.github.io/os/2021/11/03/%EA%B0%80%EC%83%81-%EB%A9%94%EB%AA%A8%EB%A6%AC.html)
 - [메모리 관리](https://lkwks.github.io/os/2021/11/01/%EB%A9%94%EB%AA%A8%EB%A6%AC-%EA%B4%80%EB%A6%AC.html)
 - [Deadlock](https://lkwks.github.io/os/2021/10/31/deadlock.html)
