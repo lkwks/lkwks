@@ -5,7 +5,7 @@ lkwks의 GitHub 계정입니다.
 
 #### 최근 블로그 포스트
 <!-- BLOG-POST-LIST:START -->
-- [관게형 데이터 모델](https://lkwks.github.io/db/2021/12/12/%EA%B4%80%EA%B2%8C%ED%98%95-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EB%AA%A8%EB%8D%B8.html)
+- [관계형 데이터베이스](https://lkwks.github.io/db/2021/12/12/%EA%B4%80%EA%B3%84%ED%98%95-%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4.html)
 - [Db 개요](https://lkwks.github.io/db/2021/12/11/DB-%EA%B0%9C%EC%9A%94.html)
 - [네트워크 보안](https://lkwks.github.io/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC/2021/12/10/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC-%EB%B3%B4%EC%95%88.html)
 - [무선랜](https://lkwks.github.io/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC/2021/12/09/%EB%AC%B4%EC%84%A0%EB%9E%9C.html)
