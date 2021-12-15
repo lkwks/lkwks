@@ -5,7 +5,7 @@ lkwks의 GitHub 계정입니다.
 
 #### 최근 블로그 포스트
 <!-- BLOG-POST-LIST:START -->
-- [Svd, pca](https://lkwks.github.io/%EC%88%98%ED%95%99/2021/12/15/SVD,-PCA.html)
+- [SVD, PCA, 선형회귀](https://lkwks.github.io/%EC%88%98%ED%95%99/2021/12/15/SVD,-PCA.html)
 - [Linear system](https://lkwks.github.io/%EC%88%98%ED%95%99/2021/12/13/linear-system.html)
 - [Pip install 중 error: could not install packages due to an oserror: [errno 2] no such file or directory](https://lkwks.github.io/%EA%B8%B0%ED%83%80/2021/12/13/pip-install-%EC%A4%91-ERROR-Could-not-install-packages-due-to-an-OSError-Errno-2-No-such-file-or-directory.html)
 - [Jupyter notebook](https://lkwks.github.io/%EA%B8%B0%ED%83%80/2021/12/13/jupyter-notebook.html)
