@@ -7,9 +7,9 @@ lkwks의 GitHub 계정입니다.
 <!-- BLOG-POST-LIST:START -->
 - [Spark](https://lkwks.github.io/db/2022/03/17/Spark.html)
 - [파이썬에서 PostgreSQL 사용하기](https://lkwks.github.io/db/2022/03/10/%ED%8C%8C%EC%9D%B4%EC%8D%AC%EC%97%90%EC%84%9C-postgresql.html)
-- [데이터 전처리](https://lkwks.github.io/ai/2022/03/08/%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%A0%84%EC%B2%98%EB%A6%AC.html)
+- [데이터 전처리](https://lkwks.github.io/ml/2022/03/08/%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%A0%84%EC%B2%98%EB%A6%AC.html)
 - [데이터 웨어하우스](https://lkwks.github.io/db/2022/03/07/%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%9B%A8%EC%96%B4%ED%95%98%EC%9A%B0%EC%8A%A4.html)
-- [RNN](https://lkwks.github.io/ai/2022/02/28/rnn.html)
+- [RNN](https://lkwks.github.io/ml/2022/02/28/rnn.html)
 <!-- BLOG-POST-LIST:END -->
   
 <!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lkwks)-->
