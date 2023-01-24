@@ -5,11 +5,11 @@ lkwks의 GitHub 계정입니다.
 
 #### 최근 블로그 포스트
 <!-- BLOG-POST-LIST:START -->
+- [리눅스에서 sudo 비밀번호 없이 쓰기](https://lkwks.github.io/os%20&%20%EB%A6%AC%EB%88%85%EC%8A%A4/2023/01/24/%EB%A6%AC%EB%88%85%EC%8A%A4%EC%97%90%EC%84%9C-sudo-%EB%B9%84%EB%B0%80%EB%B2%88%ED%98%B8-%EC%97%86%EC%9D%B4-%EC%93%B0%EA%B8%B0.html)
+- [which, whereis](https://lkwks.github.io/os%20&%20%EB%A6%AC%EB%88%85%EC%8A%A4/2023/01/24/which,-whereis.html)
+- [Systemctl](https://lkwks.github.io/os%20&%20%EB%A6%AC%EB%88%85%EC%8A%A4/2023/01/24/systemctl.html)
+- [mDNS와 avahi](https://lkwks.github.io/os%20&%20%EB%A6%AC%EB%88%85%EC%8A%A4/2023/01/24/mdns.html)
 - [홀덤 수학](https://lkwks.github.io/%EA%B8%B0%ED%83%80/2023/01/10/%ED%99%80%EB%8D%A4-%EC%88%98%ED%95%99.html)
-- [GitHub 명령어들](https://lkwks.github.io/github/2023/01/04/Github-%EB%AA%85%EB%A0%B9%EC%96%B4%EB%93%A4.html)
-- [매개변수와 전달인자](https://lkwks.github.io/%EA%B8%B0%ED%83%80/2023/01/02/%EB%A7%A4%EA%B0%9C%EB%B3%80%EC%88%98%EC%99%80-%EC%A0%84%EB%8B%AC%EC%9D%B8%EC%9E%90.html)
-- [크롬 확장 프로그램](https://lkwks.github.io/javascript/2023/01/02/%ED%81%AC%EB%A1%AC-%ED%99%95%EC%9E%A5-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8.html)
-- [해싱](https://lkwks.github.io/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20&%20%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0/2022/12/22/%ED%95%B4%EC%8B%B1.html)
 <!-- BLOG-POST-LIST:END -->
   
 <!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lkwks)-->
